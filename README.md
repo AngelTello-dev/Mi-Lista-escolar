@@ -36,6 +36,16 @@ Como ejecutarlo
 
 6. Da clic derecho en el proyecto → `Run` (Ejecutar).
 
+Previa vista de ejecucion
+
+![previa1](https://github.com/user-attachments/assets/f0dd49c7-9d51-4379-a83d-3b49d1ad7102)
+
+![previa2](https://github.com/user-attachments/assets/bd2d3941-1ddb-4882-8f00-76deee616ad5)
+
+![previa3](https://github.com/user-attachments/assets/67916a02-3d62-4514-b0a6-a5506dfc9f4f)
+
+![previa4](https://github.com/user-attachments/assets/f7ef7e65-a407-43f7-9915-69606f0cdf1b)
+
 
 Autor
 

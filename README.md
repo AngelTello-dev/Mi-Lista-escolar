@@ -39,7 +39,7 @@ Como ejecutarlo
 
 Autor
 
-Desarrollado por Angel Antonio Montes De Oca  
+Desarrollado por Angel Antonio Tello Montes De Oca  
 Contacto: angel_tello_90@hotmail.com
 
 

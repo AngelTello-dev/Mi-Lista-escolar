@@ -1,2 +1,50 @@
 # Mi-Lista-escolar
-Una aplicacion web para de estilo E-commerce donde se vente artuculos escolares que ayudara como vendedor administrar y vender kits escolares
+Descriocion
+Una aplicación web desarrollada en **JSP** que permite la **venta y gestión de artículos escolares**, tanto en kits como de forma individual. Diseñada para facilitar a vendedores la administración de productos y mejorar la experiencia de compra de los usuarios.
+
+Herramientas.
+Este proyecto está construido con tecnologías Java orientadas a la web, ideal para ser ejecutado en entornos compatibles con **Java EE**.
+
+Requisitos para ejecutar este proyecto.
+
+IDE: [NetBeans](https://netbeans.apache.org/) (Cualquier versión, se recomienda la **versión 24**)
+- Servidor de aplicaciones: [GlassFish 5.1.0](https://javaee.github.io/glassfish/)
+- Java: **OpenJDK 8**
+- Java EE: **Versión 8**
+
+Funcionalidades principales 
+
+- Catálogo de productos escolares (kits y artículos individuales)
+- Gestión de stock y precios para el vendedor
+- Sistema de login personalizado con animaciones
+- Carrito de compras y sistema de pedidos (en desarrollo o implementado según estado actual)
+- Panel de administración para vendedores
+
+Como ejecutarlo
+
+**Descarga y descomprime el archivo `.zip`** del proyecto.
+
+1. Abre **NetBeans**.
+
+2. Ve a `Archivo > Abrir proyecto (File > Open Project)` y navega hasta la carpeta donde descomprimiste el archivo `.zip`.
+
+3. Selecciona la carpeta del proyecto y haz clic en **Abrir**.
+
+4. Asegúrate de tener configurado el servidor **GlassFish 5.1.0** y que esté asociado al proyecto.
+
+5. Verifica que esté seleccionado el **JDK 8** como entorno de ejecución.
+
+6. Da clic derecho en el proyecto → `Run` (Ejecutar).
+
+
+Autor
+
+Desarrollado por Angel Antonio Montes De Oca  
+Contacto: angel_tello_90@hotmail.com
+
+
+¡Gracias por visitar el proyecto!
+
+
+
+
